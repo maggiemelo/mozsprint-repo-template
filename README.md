@@ -22,7 +22,7 @@ Thanks for your interest in contributing to the Women Techmakers Tucson Hackatho
 
 Participation Guidelines
 
-I'll snag this simple rule from a Google Developers Group summit I just came back from... "Be Excellent to One Another." If any issues arise, feel free to e-mail me: marijel.melo@gmail.com
+Check out the Code of Conduct provided by Mozilla. I'll also snag this simple rule from a Google Developers Group summit I just came back from... "Be Excellent to One Another." If any issues arise, feel free to e-mail me: marijel.melo@gmail.com
 
 MozSprint
 
